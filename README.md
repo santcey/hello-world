@@ -1,2 +1,3 @@
 # hello-world
-First tr6
+First try 
+This is my first experience with github.
